@@ -13,8 +13,6 @@ body{
     overflow-x:hidden;
 }
 
-/* HEADER */
-
 header{
     width:100%;
     padding:20px 80px;
@@ -55,8 +53,6 @@ nav ul li a:hover{
     color:#008cff;
 }
 
-/* HERO */
-
 .hero{
     min-height:100vh;
     display:grid;
@@ -94,8 +90,6 @@ nav ul li a:hover{
     margin-bottom:35px;
 }
 
-/* BOTÃO */
-
 .btn{
     display:inline-block;
     padding:15px 36px;
@@ -115,7 +109,6 @@ nav ul li a:hover{
     cursor:pointer;
 }
 
-/* SUSTENTABILIDADE */
 
 .sustentabilidade{
     padding:120px 80px;
@@ -136,8 +129,6 @@ nav ul li a:hover{
     line-height:1.1;
     font-weight:900;
 }
-
-/* CARROS */
 
 .carros{
     padding:100px 80px;
@@ -193,8 +184,6 @@ nav ul li a:hover{
     left:25px;
     z-index:2;
 }
-
-/* FOOTER */
 
 footer{
     background:#ffffff;
